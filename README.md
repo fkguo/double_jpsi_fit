@@ -7,3 +7,7 @@ We consider coupled channels of two kinds:
 
 * two channels: $J/\psi J/\psi$ and $J/\psi \psi(2S)$
 * three channels: $J/\psi J/\psi$, $J/\psi \psi(2S)$ and $J/\psi \psi(3770)$
+
+
+The analysis can be played interactively by clicking
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fkguo/double_jpsi_fit/master?filepath=fit_lhcb_double_jpsi.ipynb)
