@@ -1,5 +1,8 @@
 # Fit to the LHCb double $J/\psi$ spectrum
 
+[![arXiv](https://img.shields.io/badge/arXiv-2009.07795-33b6ff.svg)](https://arxiv.org/abs/2009.07795)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fkguo/double_jpsi_fit/master?urlpath=lab/tree/fit_lhcb_double_jpsi.ipynb)
+
 This is a coupled-channel analysis of the LHCb data reporting the $X(6900)$ in [arXiv:2006.18957](https://arxiv.org/abs/2006.16957). 
 Our results are presented in [arXiv:2009.07795](https://arxiv.org/abs/2009.07795). 
 
